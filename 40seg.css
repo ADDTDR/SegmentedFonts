@@ -1,0 +1,241 @@
+.colorify {
+    fill: #dc143c;
+    
+}
+
+
+.seg {
+    fill: crimson;
+    fill-opacity: 0.3;
+}
+
+/* .display-1 .  */
+
+.display-1 .seg11,
+.display-1 .seg3,
+.display-1 .seg8,
+.display-1 .seg10, 
+.display-1 .seg13, 
+.display-1 .seg14, 
+.display-1 .seg22, 
+.display-1 .seg23, 
+.display-1 .seg28, 
+.display-1 .seg29
+{
+    fill: #dc143c;
+}
+
+.display-2 .seg2,
+.display-2 .seg3,
+.display-2 .seg5, 
+.display-2 .seg6,
+.display-2 .seg9,
+.display-2 .seg12,
+.display-2 .seg16,
+.display-2 .seg19,
+.display-2 .seg14,
+.display-2 .seg22,
+.display-2 .seg24,
+.display-2 .seg34,
+.display-2 .seg27,
+.display-2 .seg28,
+.display-2 .seg29,
+.display-2 .seg30,
+.display-2 .seg31,
+.display-2 .seg33{
+    fill: #dc143c;   
+}
+
+.display-3 .seg1,
+.display-3 .seg2,
+.display-3 .seg3,
+.display-3 .seg4,
+.display-3 .seg5,
+.display-3 .seg6,
+.display-3 .seg9,
+.display-3 .seg10,
+.display-3 .seg14,
+.display-3 .seg16,
+.display-3 .seg19,
+.display-3 .seg21,
+.display-3 .seg25,
+.display-3 .seg30,
+.display-3 .seg31,
+.display-3 .seg29,
+.display-3 .seg28,
+.display-3 .seg27,
+.display-3 .seg26{
+    fill: #dc143c;   
+}
+
+.display-4 .seg3,
+.display-4 .seg4,
+.display-4 .seg5,
+.display-4 .seg6,
+.display-4 .seg8,
+.display-4 .seg9,
+.display-4 .seg12,
+.display-4 .seg11,
+.display-4 .seg15,
+.display-4 .seg13,
+.display-4 .seg14,
+.display-4 .seg19,
+.display-4 .seg16,
+.display-4 .seg19,
+.display-4 .seg18,
+.display-4 .seg21,
+.display-4 .seg25,
+.display-4 .seg30,
+.display-4 .seg31,
+.display-4 .seg33
+{
+    fill: #dc143c; 
+}
+
+
+.display-5 .seg1,
+.display-5 .seg2,
+.display-5 .seg3,
+.display-5 .seg4,
+.display-5 .seg5,
+.display-5 .seg6,
+.display-5 .seg7,
+.display-5 .seg11,
+.display-5 .seg15,
+.display-5 .seg13,
+.display-5 .seg14,
+.display-5 .seg16,
+.display-5 .seg19,
+.display-5 .seg21,
+.display-5 .seg25,
+.display-5 .seg31,
+.display-5 .seg30,
+.display-5 .seg29,
+.display-5 .seg28,
+.display-5 .seg27,
+.display-5 .seg26
+{
+    fill: #dc143c; 
+}
+
+
+.display-6 .seg3,
+.display-6 .seg5,
+.display-6 .seg8,
+.display-6 .seg11,
+.display-6 .seg15,
+.display-6 .seg13,
+.display-6 .seg14,
+.display-6 .seg16,
+.display-6 .seg19,
+.display-6 .seg21,
+.display-6 .seg20,
+.display-6 .seg24,
+.display-6 .seg25,
+.display-6 .seg31,
+.display-6 .seg30,
+.display-6 .seg29,
+.display-6 .seg28,
+.display-6 .seg27,
+.display-6 .seg26
+{
+    fill: #dc143c; 
+}
+
+
+.display-7 .seg1,
+.display-7 .seg2,
+.display-7 .seg3,
+.display-7 .seg4,
+.display-7 .seg5,
+.display-7 .seg6,
+.display-7 .seg9,
+.display-7 .seg10,
+.display-7 .seg14,
+.display-7 .seg16, 
+.display-7 .seg22,
+.display-7 .seg24,
+.display-7 .seg27,
+.display-7 .seg28,
+.display-7 .seg34{
+    fill: #dc143c;   
+}
+
+
+
+.display-8 .seg2,
+.display-8 .seg3,
+.display-8 .seg5,
+.display-8 .seg6,
+.display-8 .seg7,
+.display-8 .seg9,
+.display-8 .seg11,
+.display-8 .seg12,
+.display-8 .seg15,
+.display-8 .seg13,
+.display-8 .seg14,
+.display-8 .seg16,
+.display-8 .seg19,
+.display-8 .seg21,
+.display-8 .seg20,
+.display-8 .seg24,
+.display-8 .seg25,
+.display-8 .seg31,
+.display-8 .seg30,
+.display-8 .seg29,
+.display-8 .seg28,
+.display-8 .seg27,
+.display-8 .seg26
+{
+    fill: #dc143c; 
+}
+
+
+
+.display-9 .seg2,
+.display-9 .seg3,
+.display-9 .seg5,
+.display-9 .seg6,
+.display-9 .seg7,
+.display-9 .seg9,
+.display-9 .seg11,
+.display-9 .seg12,
+.display-9 .seg15,
+.display-9 .seg13,
+.display-9 .seg14,
+.display-9 .seg16,
+.display-9 .seg18,
+.display-9 .seg19,
+.display-9 .seg21,
+.display-9 .seg23,
+.display-9 .seg29,
+.display-9 .seg30
+{
+    fill: #dc143c; 
+}
+
+
+.display-0 .seg2,
+.display-0 .seg3,
+.display-0 .seg5,
+.display-0 .seg6,
+.display-0 .seg7,
+.display-0 .seg9,
+.display-0 .seg11,
+.display-0 .seg12,
+.display-0 .seg15,
+.display-0 .seg16,
+.display-0 .seg19,
+.display-0 .seg21,
+.display-0 .seg20,
+.display-0 .seg24,
+.display-0 .seg25,
+.display-0 .seg31,
+.display-0 .seg30,
+.display-0 .seg29,
+.display-0 .seg28,
+.display-0 .seg27,
+.display-0 .seg26
+{
+    fill: #dc143c; 
+}
